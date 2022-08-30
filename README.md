@@ -7,7 +7,45 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+Professional Summary
+- 1.5 years of using Javascript to build websites and SPAs;
+- Creating static and responsive cross-browser websites with a lot of CSS3 and Javascript animations;
+- Team Development of Single Page Applications;
+- Work and creation of REST APIs;
 
+I have good knowledge of:
+- HTML (Semantic, Responsive, Adaptive layout);
+- CSS (CSS3 animations, SASS, CSS, FlexBox);
+- Javascript (ES5 / ES6);
+- Typescript;
+- Angular2 (Rxjs, Angular Material, PrimeNg);
+- Nodejs (Express, Nest.js, Graphql, Prisma);
+- Unit testing (Jest);
+
+Education:
+- RSSchool JavaScript/Front-end 2021Q3 (6 months);
+- RSSchool Angular 2022Q1(2 month);
+- RSSchool Node.js (2 month);
+- ServiceNow EPAM Training (2month);
+
+Main Work Tools:
+- VS Code;
+- Webpack;
+- Npm;
+- Git, Github;
+- Figma;
+- Postman;
+
+Soft skills:
+- Agile (scrum, kanban);
+- Stress resistance;
+- Communication skills;
+- Independence in work;
+- Good learning ability;
+
+Btw I have a higher technical education.
+I have an intermediate level of English.
+I live in Minsk (ready to move to another city, country). 
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
