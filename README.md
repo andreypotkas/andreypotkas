@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there! Professional Summary
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-Professional Summary
+
 - 1.5 years of using Javascript to build websites and SPAs;
 - Creating static and responsive cross-browser websites with a lot of CSS3 and Javascript animations;
 - Team Development of Single Page Applications;
@@ -43,9 +43,7 @@ Soft skills:
 - Independence in work;
 - Good learning ability;
 
-Btw I have a higher technical education.
-I have an intermediate level of English.
-I live in Minsk (ready to move to another city, country). 
+
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
