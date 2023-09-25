@@ -8,19 +8,26 @@
   </a>
 </div>
 
-- 1.5 years of using Javascript to build websites and SPAs;
-- Creating static and responsive cross-browser websites with a lot of CSS3 and Javascript animations;
+- 2.5 years of using Javascript to build websites and SPAs;
+- 1 Year commercial development
 - Team Development of Single Page Applications;
 - Work and creation of REST APIs;
 
 I have good knowledge of:
-- HTML (Semantic, Responsive, Adaptive layout);
-- CSS (CSS3 animations, SASS, CSS, FlexBox);
+- HTML, CSS (Semantic, Responsive, Adaptive layout, Tailwindcss, Primefaces);
 - Javascript (ES5 / ES6);
 - Typescript;
 - Angular2 (Rxjs, Angular Material, PrimeNg);
-- Nodejs (Express, Nest.js, Graphql, Prisma);
-- Unit testing (Jest);
+- React (Redux, Saga, Toolkit, PrimeReact);
+- Nodejs (Nest.js);
+- Databases and ORMs (Mongo, Postgres, Sequilize, TypeORM, Mongoose);
+
+Additional knowledge:
+- Aws (launch and configure EC2, S3, Route53);
+- Deploy apps to vps and configure nginx ;
+- Some experience with docker;
+- Some experience with Stripe;
+- usage of XRPL Blockchain api;
 
 Education:
 - RSSchool JavaScript/Front-end 2021Q3 (6 months);
