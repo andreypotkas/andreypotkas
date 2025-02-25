@@ -8,49 +8,6 @@
   </a>
 </div>
 
-- 2.5 years of using Javascript to build websites and SPAs;
-- 1 Year commercial development
-- Team Development of Single Page Applications;
-- Work and creation of REST APIs;
-
-I have good knowledge of:
-- HTML, CSS (Semantic, Responsive, Adaptive layout, Tailwindcss, Primefaces);
-- Javascript (ES5 / ES6);
-- Typescript;
-- Angular2 (Rxjs, Angular Material, PrimeNg);
-- React (Redux, Saga, Toolkit, PrimeReact);
-- Nodejs (Nest.js);
-- Databases and ORMs (Mongo, Postgres, Sequilize, TypeORM, Mongoose);
-
-Additional knowledge:
-- Aws (launch and configure EC2, S3, Route53);
-- Deploy apps to vps and configure nginx ;
-- Some experience with docker;
-- Some experience with Stripe;
-- usage of XRPL Blockchain api;
-
-Education:
-- RSSchool JavaScript/Front-end 2021Q3 (6 months);
-- RSSchool Angular 2022Q1(2 month);
-- RSSchool Node.js (2 month);
-- ServiceNow EPAM Training (2month);
-
-Main Work Tools:
-- VS Code;
-- Webpack;
-- Npm;
-- Git, Github;
-- Figma;
-- Postman;
-
-Soft skills:
-- Agile (scrum, kanban);
-- Stress resistance;
-- Communication skills;
-- Independence in work;
-- Good learning ability;
-
-
 ## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
